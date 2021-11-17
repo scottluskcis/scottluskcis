@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is **Scott** and you should know, I love solving problems using software. It's a good day for me when I get to launch an IDE and write some code :smile:. I've been doing software development for over 15-20 years now and I enjoy what I do.
+My name is **Scott** and you should know, I love solving problems using software. It's a good day for me when I get to launch an IDE and write some code :smile:. I've been doing software development for almost 20 years now and I :heart: what I do.
 
 I am a **Solution Architect** currently working at [Hitachi Solutions America](https://global.hitachi-solutions.com/). I am a graduate of the [University of South Alabama](https://www.southalabama.edu/) with my Masters, Computer and Information Sciences. I am a lifelong student and every day is an opportunity to learning something new. I am a consultant and I work hard to help others to improve their lives, the lives of others, and make an impact in the world enabling them to do what they do best by helping them get there through the use of software and technology :dart:.
 
