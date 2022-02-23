@@ -19,7 +19,17 @@ My name is **Scott** and you should know, I love solving problems using software
 
 I am a **Solution Architect** currently working at [Hitachi Solutions America](https://global.hitachi-solutions.com/). I am a graduate of the [University of South Alabama](https://www.southalabama.edu/) with my Masters, Computer and Information Sciences. I am a lifelong student and every day is an opportunity to learning something new. I am a consultant and I work hard to help others to improve their lives, the lives of others, and make an impact in the world enabling them to do what they do best by helping them get there through the use of software and technology :dart:.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottluskcis&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## :octocat: GitHub Stats
+
+<a href="https://github.com/scottluskcis/scottluskcis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=scottluskcis&show_icons=true&theme=dracula&count_private=true" alt="Scott's GitHub Stats" />
+</a>
+
+<!--
+<a href="https://github.com/scottluskcis/scottluskcis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottluskcis&show_icons=true&theme=dracula&count_private=true&hide=java,html,ruby,css&langs_count=3" />
+</a>
+-->
 
 ### :computer: Connect with me:
 
