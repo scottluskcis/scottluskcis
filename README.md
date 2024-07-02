@@ -29,6 +29,8 @@ I am a **Principal Solution Architect** currently working at [Hitachi Solutions 
 <a href="https://github.com/scottluskcis/scottluskcis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottluskcis&show_icons=true&theme=dracula&count_private=true&hide=java,html,ruby,css&langs_count=3" />
 </a>
+
+* Blog: [scottluskcis.github.io](https://scottluskcis.github.io/)
 -->
 
 ### :computer: Connect with me:
@@ -36,19 +38,15 @@ I am a **Principal Solution Architect** currently working at [Hitachi Solutions 
 * LinkedIn: [linkedin.com/in/scottluskcis](https://www.linkedin.com/in/scottluskcis/)
 * Twitter: [twitter.com/scottluskcis](https://twitter.com/scottluskcis)
 * GitHub: [github.com/scottluskcis](https://github.com/scottluskcis)
-* Blog: [scottluskcis.github.io](https://scottluskcis.github.io/)
 * Medium: [medium.com/@scottlusk.cis](https://medium.com/@scottlusk.cis)
 
 ### :scroll: My Licenses & Certifications:
 
-* [AZ-303 Microsoft Azure Architect Technologies](https://www.credly.com/badges/8dfdaa71-06b0-40fc-bbdb-e081a7b85c42/linked_in_profile)
-* [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/22605f77-6228-48b7-8da3-ad6bedaebb1b)
-* [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/754b3f5f-c3fe-4080-9221-a4de2e1401cb/linked_in_profile)
+* [Microsoft Certified: DevOps Engineer Expert]([https://www.credly.com/badges/22605f77-6228-48b7-8da3-ad6bedaebb1b](https://learn.microsoft.com/en-gb/users/scottluskcis/credentials/2c295d04dc3a7d6e) 
+* [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-gb/users/scottluskcis/credentials/97cf897ccfeb96c9)
 
 ### :books: I’m currently learning:
 
-* AZ-305 Exam Prep: [Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://learn.microsoft.com/en-us/certifications/exams/az-305)
-* DP-420 Exam Prep: [Exam DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB](https://learn.microsoft.com/en-us/certifications/exams/dp-420)
 * Microsoft Learn: [docs.microsoft.com/scottluskcis](https://docs.microsoft.com/en-us/users/scottluskcis/)
 * Pluralsight: [pluralsight.com/scott-lusk](https://app.pluralsight.com/profile/scott-lusk-8c)
 
