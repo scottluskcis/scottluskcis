@@ -42,7 +42,7 @@ I am a **Principal Solution Architect** currently working at [Hitachi Solutions 
 
 ### :scroll: My Licenses & Certifications:
 
-* [Microsoft Certified: DevOps Engineer Expert]([https://www.credly.com/badges/22605f77-6228-48b7-8da3-ad6bedaebb1b](https://learn.microsoft.com/en-gb/users/scottluskcis/credentials/2c295d04dc3a7d6e) 
+* [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/en-gb/users/scottluskcis/credentials/2c295d04dc3a7d6e) 
 * [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-gb/users/scottluskcis/credentials/97cf897ccfeb96c9)
 
 ### :books: I’m currently learning:
