@@ -21,11 +21,14 @@ I am a **Principal Solution Architect** currently working at [Hitachi Solutions 
 
 ### :octocat: GitHub Stats
 
+<!--
 <a href="https://github.com/scottluskcis/scottluskcis">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=scottluskcis&show_icons=true&theme=dracula&count_private=true" alt="Scott's GitHub Stats" />
 </a>
+-->
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scottluskcis&langs_count=5&theme=dracula)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=scottluskcis&count_private=true&theme=dracula&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scottluskcis&langs_count=5&theme=dracula&count_private=true)]()
 
 <!--
 <a href="https://github.com/scottluskcis/scottluskcis">
