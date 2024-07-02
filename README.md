@@ -25,6 +25,8 @@ I am a **Principal Solution Architect** currently working at [Hitachi Solutions 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=scottluskcis&show_icons=true&theme=dracula&count_private=true" alt="Scott's GitHub Stats" />
 </a>
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scottluskcis&langs_count=5&theme=dracula)]()
+
 <!--
 <a href="https://github.com/scottluskcis/scottluskcis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottluskcis&show_icons=true&theme=dracula&count_private=true&hide=java,html,ruby,css&langs_count=3" />
