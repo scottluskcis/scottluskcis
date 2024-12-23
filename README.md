@@ -19,7 +19,7 @@ My name is **Scott** and you should know, I love solving problems using software
 
 I currently work at [GitHub](https://github.com/). I am a graduate of the [University of South Alabama](https://www.southalabama.edu/) with my Masters, Computer and Information Sciences. I am a lifelong student and every day is an opportunity to learning something new. I am a consultant and I work hard to help others to improve their lives, the lives of others, and make an impact in the world enabling them to do what they do best by helping them get there through the use of software and technology :dart:.
 
-Reach me at 📧 **scottluskcis@github.com**, I love to collaborate with others, learn new things, explorer, and solve complex problems together.
+Reach me at :octocat: **scottluskcis@github.com**, I love to collaborate with others, learn new things, explorer, and solve complex problems together.
 
 <!--
 ### :octocat: GitHub Stats
@@ -48,31 +48,40 @@ Reach me at 📧 **scottluskcis@github.com**, I love to collaborate with others,
 * Blog: [scottluskcis.github.io](https://scottluskcis.github.io/)
 -->
 
-### :computer: Connect with me:
-
-* LinkedIn: [linkedin.com/in/scottluskcis](https://www.linkedin.com/in/scottluskcis/)
-* Twitter: [twitter.com/scottluskcis](https://twitter.com/scottluskcis)
-* GitHub: [github.com/scottluskcis](https://github.com/scottluskcis)
-* Medium: [medium.com/@scottlusk.cis](https://medium.com/@scottlusk.cis)
-
 ### :scroll: My Licenses & Certifications:
 
-* [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/en-gb/users/scottluskcis/credentials/2c295d04dc3a7d6e) 
-* [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-gb/users/scottluskcis/credentials/97cf897ccfeb96c9)
+#### Badges 
 
-### :books: I’m currently learning:
+![github-foundations](https://github.com/user-attachments/assets/05cb73e6-e20d-430a-81b2-1c0f948ac461) ![github-actions](https://github.com/user-attachments/assets/338cf021-ee27-40a6-b53c-fcbe05702264)
+![github-advanced-security](https://github.com/user-attachments/assets/7c00996e-47c7-4174-99ff-1fb11642eccd) ![github-copilot](https://github.com/user-attachments/assets/c6664f56-4a55-4663-9502-99e201784c2a)
+<br />
+![microsoft-certified-devops-engineer-expert](https://github.com/user-attachments/assets/483be12e-4fef-4df0-b9db-8bb906eaa739)  ![microsoft-certified-azure-solutions-architect-expert 1](https://github.com/user-attachments/assets/e8b7cdac-4668-4dcd-ab7f-41c36546cd3d)
 
-* Microsoft Learn: [docs.microsoft.com/scottluskcis](https://docs.microsoft.com/en-us/users/scottluskcis/)
-* Pluralsight: [pluralsight.com/scott-lusk](https://app.pluralsight.com/profile/scott-lusk-8c)
+#### Certifications 
+
+* [GitHub Foundations](https://www.credly.com/badges/c2ef051d-543e-4c69-ba0c-d6752c45df3b/linked_in_profile)
+* [GitHub Actions](https://www.credly.com/badges/7a7bbc69-67e0-44a7-b12e-2aaa890e2306/linked_in_profile)
+* [GitHub Advanced Security](https://www.credly.com/badges/4e06ec54-fd72-4645-a825-705b15c0f050/linked_in_profile)
+* [GitHub Copilot](https://www.credly.com/badges/373bdd56-d706-4b63-a220-3485bc5bb222/linked_in_profile)
+* [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/scottluskcis/2C295D04DC3A7D6E?sharingId)
+* [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/scottluskcis/97CF897CCFEB96C9?sharingId)
+
+### :books: I’m currently learning or Interested In:
+
+#### Learning Profiles
+
+* [Microsoft Learn](docs.microsoft.com/scottluskcis)
+* [Udemy](https://www.udemy.com/user/scott-lusk-2/)
+* [Pluralsight](pluralsight.com/scott-lusk)
 
 ### :speaker: Podcasts I regularly enjoy listening to:
 
-* [.NET Rocks!](https://www.dotnetrocks.com/)
-* [CloudSkills.fm](https://cloudskills.fm/)
+* [Syntax](https://syntax.fm/)
+* [Tech World Human Skills Podcast](https://www.elevatedyou.live/podcasts/tech-world-human-skills)
+* [.NET Rocks!](https://www.dotnetrocks.com/) 
 * [Azure DevOps Podcast](http://azuredevopspodcast.clear-measure.com/)
 * [The Azure Podcast](http://azpodcast.azurewebsites.net/)
 * [The Hanselminutes Podcast](https://hanselminutes.com/)
-* [Syntax](https://syntax.fm/)
-* ...
 
-_Watch this space, more details about me to come soon..._
+_Any recommendations on podcasts that you have?_
+
