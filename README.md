@@ -64,11 +64,11 @@ Reach me at :octocat: **scottluskcis@github.com**, I love to collaborate with ot
 
 #### Certifications 
 
-* [GitHub Foundations](https://www.credly.com/badges/c2ef051d-543e-4c69-ba0c-d6752c45df3b/linked_in_profile)
-* [GitHub Actions](https://www.credly.com/badges/7a7bbc69-67e0-44a7-b12e-2aaa890e2306/linked_in_profile)
-* [GitHub Advanced Security](https://www.credly.com/badges/4e06ec54-fd72-4645-a825-705b15c0f050/linked_in_profile)
-* [GitHub Administration](https://www.credly.com/badges/b37e7b26-b577-4837-b70e-75bc6e19d0ae/linked_in_profile)
-* [GitHub Copilot](https://www.credly.com/badges/373bdd56-d706-4b63-a220-3485bc5bb222/linked_in_profile)
+* [GitHub Foundations](https://www.credly.com/badges/c2ef051d-543e-4c69-ba0c-d6752c45df3b/)
+* [GitHub Actions](https://www.credly.com/badges/7a7bbc69-67e0-44a7-b12e-2aaa890e2306/)
+* [GitHub Advanced Security](https://www.credly.com/badges/4e06ec54-fd72-4645-a825-705b15c0f050/)
+* [GitHub Administration](https://www.credly.com/badges/b37e7b26-b577-4837-b70e-75bc6e19d0ae/)
+* [GitHub Copilot](https://www.credly.com/badges/373bdd56-d706-4b63-a220-3485bc5bb222/)
 * [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/scottluskcis/2C295D04DC3A7D6E?sharingId)
 * [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/scottluskcis/97CF897CCFEB96C9?sharingId)
 
