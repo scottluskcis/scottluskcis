@@ -50,11 +50,16 @@ Reach me at :octocat: **scottluskcis@github.com**, I love to collaborate with ot
 
 ### :scroll: My Licenses & Certifications:
 
-#### Badges 
+#### GitHub
 
 ![github-foundations](https://github.com/user-attachments/assets/05cb73e6-e20d-430a-81b2-1c0f948ac461) ![github-actions](https://github.com/user-attachments/assets/338cf021-ee27-40a6-b53c-fcbe05702264)
-![github-advanced-security](https://github.com/user-attachments/assets/7c00996e-47c7-4174-99ff-1fb11642eccd) ![github-copilot](https://github.com/user-attachments/assets/c6664f56-4a55-4663-9502-99e201784c2a)
+![github-advanced-security](https://github.com/user-attachments/assets/7c00996e-47c7-4174-99ff-1fb11642eccd) 
 <br />
+![github-copilot](https://github.com/user-attachments/assets/c6664f56-4a55-4663-9502-99e201784c2a)
+![github-administration](https://github.com/user-attachments/assets/ae08dd58-985b-4869-b120-c6651cc29a71)
+
+#### Microsoft
+
 ![microsoft-certified-devops-engineer-expert](https://github.com/user-attachments/assets/483be12e-4fef-4df0-b9db-8bb906eaa739)  ![microsoft-certified-azure-solutions-architect-expert 1](https://github.com/user-attachments/assets/e8b7cdac-4668-4dcd-ab7f-41c36546cd3d)
 
 #### Certifications 
@@ -62,6 +67,7 @@ Reach me at :octocat: **scottluskcis@github.com**, I love to collaborate with ot
 * [GitHub Foundations](https://www.credly.com/badges/c2ef051d-543e-4c69-ba0c-d6752c45df3b/linked_in_profile)
 * [GitHub Actions](https://www.credly.com/badges/7a7bbc69-67e0-44a7-b12e-2aaa890e2306/linked_in_profile)
 * [GitHub Advanced Security](https://www.credly.com/badges/4e06ec54-fd72-4645-a825-705b15c0f050/linked_in_profile)
+* [GitHub Administration](https://www.credly.com/badges/b37e7b26-b577-4837-b70e-75bc6e19d0ae/linked_in_profile)
 * [GitHub Copilot](https://www.credly.com/badges/373bdd56-d706-4b63-a220-3485bc5bb222/linked_in_profile)
 * [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/scottluskcis/2C295D04DC3A7D6E?sharingId)
 * [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/scottluskcis/97CF897CCFEB96C9?sharingId)
